@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.atas{
+    display: flex;
+    padding-right: 60px;
+}
+.bar{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 7px;
+}
+.menu{
+    margin-right: 500px;
+}
+.navbar{
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+.logo{
+    margin-right: 600px;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.logo img{
+    margin-right: 15px;
+}
+.wp img{
+    width: 1350px;
+}
+.discover{
+    text-align: center;
+    margin: 50px;
+    padding: 32px;
+}
+.discover span{
+    font-size: 22px;
+}
+.produk{
+    display: flex;
+}
+.produk1{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+.produk2{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+.produk3{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+.produk4{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+
+.product{
+    display: flex;
+}
+.produk5{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+.produk6{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+.produk7{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+.produk8{
+    margin-left: 72px;
+    margin-bottom: 20px;
+}
+.kotak1{
+    display: flex;
+    background-color: pink;
+    margin: 35px 70px;
+}
+.pesan{
+    margin: 25px 300px 35px 325px;
+}
+.help{
+    margin-top: 36px;
+    margin-left: 132px;
+    margin-bottom: 46px;
+}
+.help h1{
+    font-size: 24px;
+}
+.button{
+    background: gray;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    padding: 10px 55px;
+    width: 100px;
+}
+.kotak2{
+    background-color: black;
+}
+.logo2{
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 68px;
+    margin-right: 1233px;
+    margin-left: 95px;
+    font-size: 20px;
+}.logo2 img{
+    margin-right: 7px;
+}.bawah{
+    display: flex;
+    color: white;
+    font-size: 14px;
+}.kotak{
+    background-color: black;
+    margin-right: 145px;
+    margin-left: 165px;
+}.order{
+    margin: 8px 85px 85px 61px;
+}.resouces{
+    margin: 8px 110px 82px 92px;
+}.berbawah{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 1px;
+    padding: 26px;
+}
